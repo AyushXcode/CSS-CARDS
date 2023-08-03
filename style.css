@@ -1,0 +1,40 @@
+.main{
+    margin: 50px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    width: 350px;
+    font-family: sans-serif;
+}
+img{
+    width: 350px;
+    height: 170px;
+    border-radius: 12px ;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+#line1,#line2,#line3,button{
+    margin: 30px;
+    margin: 15px;
+}
+#line1{
+    font-weight: 600;
+    color: gray;
+    font-size: 8px;
+}
+#line2{
+    font-size: 20px;
+    font-weight: 500;
+}
+#line3{
+    font-weight: 600;
+    font-size: 13px;
+    color: rgb(125, 123, 123);
+}
+button{
+    padding: 10px 25px;
+    border: 1px solid lightgray;
+    background-color: #fff;
+    color: blue;
+    font-weight: 550;
+    border-radius: 5px;
+}
